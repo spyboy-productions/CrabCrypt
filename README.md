@@ -7,10 +7,9 @@ CrabCrypt is a secure file encryption tool with GUI, designed for effortlessly e
 
 ### 🚀 Features  
 ✅ **Secure Encryption** - Uses AES-256 encryption with PBKDF2 key derivation.  
-✅ **Intuitive UI** - Simple drag-and-drop file selection and password protection.  
+✅ **Intuitive UI** - Simple file selection and password protection.  
 ✅ **Multi-File Support** - Encrypt and decrypt any type of file.  
 ✅ **Offline & Private** - No internet connection required, ensuring privacy.  
-✅ **Cyberpunk Aesthetic** - A sleek, neon-green, hacker-style interface.  
 
 ---
 
