@@ -1,6 +1,26 @@
-## 🦀🔐 CrabCrypt - "Encrypt. Hide. Protect."
+<p align="center">
+    <a href="https://spyboy.in/twitter">
+      <img src="https://img.shields.io/badge/-TWITTER-black?logo=twitter&style=for-the-badge">
+    </a>
+    &nbsp;
+    <a href="https://spyboy.in/">
+      <img src="https://img.shields.io/badge/-spyboy.in-black?logo=google&style=for-the-badge">
+    </a>
+    &nbsp;
+    <a href="https://spyboy.blog/">
+      <img src="https://img.shields.io/badge/-spyboy.blog-black?logo=wordpress&style=for-the-badge">
+    </a>
+    &nbsp;
+    <a href="https://spyboy.in/Discord">
+      <img src="https://img.shields.io/badge/-Discord-black?logo=discord&style=for-the-badge">
+    </a>
+  
+</p>
 
-### 📝 About  
+<img width="20%" align="centre" src="https://github.com/spyboy-productions/CrabCrypt/blob/main/crabcrypt.webp" />
+
+<h4 align="center">  🦀🔐 CrabCrypt - "Encrypt. Hide. Protect.</h4>
+
 CrabCrypt is a secure file encryption tool with GUI, designed for effortlessly encrypting and decrypting any file. With AES encryption and a sleek Tkinter interface, CrabCrypt ensures your files remain confidential and protected from unauthorized access.
 
 ---
@@ -17,7 +37,7 @@ CrabCrypt is a secure file encryption tool with GUI, designed for effortlessly e
 
 #### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/CrabCrypt.git
+git clone https://github.com/spyboy-productions/CrabCrypt.git
 cd CrabCrypt
 ```
 
