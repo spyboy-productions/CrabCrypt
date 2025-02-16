@@ -17,9 +17,12 @@
   
 </p>
 
-<img width="20%" align="centre" src="https://github.com/spyboy-productions/CrabCrypt/blob/main/crabcrypt.webp" />
+<p align="center">
+  <img width="20%" src="https://github.com/spyboy-productions/CrabCrypt/blob/main/crabcrypt.webp" />
+</p>
 
-<h4 align="center">  🦀🔐 CrabCrypt - "Encrypt. Hide. Protect.</h4>
+
+<h4 align="center"> CrabCrypt🦀🔐  - "Encrypt. Hide. Protect.</h4>
 
 CrabCrypt is a secure file encryption tool with GUI, designed for effortlessly encrypting and decrypting any file. With AES encryption and a sleek Tkinter interface, CrabCrypt ensures your files remain confidential and protected from unauthorized access.
 
