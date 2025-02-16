@@ -8,6 +8,7 @@ from cryptography.hazmat.primitives import hashes
 import base64
 import secrets
 
+# Cyberpunk Color Theme
 BG_COLOR = "#0D0D0D"  # Dark Background
 FG_COLOR = "#00FF41"  # Neon Green Text
 BTN_COLOR = "#1F1B24"  # Dark Purple Buttons
@@ -91,10 +92,10 @@ class CrabCryptApp:
             self.drop_label.config(text=f"Selected File: {os.path.basename(self.file_path)}")
 
     def open_github(self):
-        webbrowser.open("https://github.com/yourrepo")
+        webbrowser.open("https://github.com/spyboy-productions/CrabCrypt")
 
     def open_discord(self):
-        webbrowser.open("https://discord.com/invite/yourinvite")
+        webbrowser.open("https://discord.gg/ZChEmMwE8d")
 
     def encrypt_file(self):
         if not self.file_path:
