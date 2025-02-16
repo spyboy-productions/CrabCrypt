@@ -41,6 +41,8 @@ CrabCrypt is a secure file encryption tool with GUI, designed for effortlessly e
 #### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/spyboy-productions/CrabCrypt.git
+```
+```
 cd CrabCrypt
 ```
 
