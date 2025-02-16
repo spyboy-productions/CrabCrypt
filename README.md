@@ -22,7 +22,7 @@
 </p>
 
 
-<h4 align="center"> CrabCrypt🦀🔐  - "Encrypt. Hide. Protect.</h4>
+<h4 align="center"> CrabCrypt🦀🔐</h4>
 
 CrabCrypt is a secure file encryption tool with GUI, designed for effortlessly encrypting and decrypting any file. With AES encryption and a sleek Tkinter interface, CrabCrypt ensures your files remain confidential and protected from unauthorized access.
 
@@ -75,3 +75,14 @@ python CrabCrypt.py
 
 ### 📢 Contribute  
 Want to improve CrabCrypt? Open a PR or submit an issue!   
+
+#### 💬 If having an issue [Chat here](https://discord.gg/ZChEmMwE8d)
+[![Discord Server](https://discord.com/api/guilds/726495265330298973/embed.png)](https://discord.gg/ZChEmMwE8d)
+
+### ⭔ Snapshots:
+---
+<p align="center">
+  <img width="60%" src="https://github.com/spyboy-productions/CrabCrypt/blob/main/demo.png" />
+</p>
+
+<h4 align="center"> If you find this GitHub repo useful, please consider giving it a star! ⭐️ </h4> 
