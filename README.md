@@ -30,12 +30,12 @@ CrabCrypt is a secure file encryption tool with GUI, designed for effortlessly e
 
 ### 🚀 Features  
 ✅ **Secure Encryption** - Uses AES-256 encryption with strong key derivation.  
-✅ **Authenticated Encryption** - Utilizes AES-GCM to prevent padding vulnerabilities.  
-✅ **Stronger Key Derivation** - Offers both PBKDF2 (600K iterations) and Argon2 for better security.  
-✅ **Proper Padding (PKCS7)** - Ensures data integrity when CBC mode is used.  
+✅ **Authenticated Encryption** - Utilizes **AES-GCM** for encryption, eliminating the need for padding and preventing common attacks.  
+✅ **Strong Key Derivation** - Offers both **PBKDF2 (600K iterations)** and **Argon2** for enhanced security.  
+✅ **No Padding Issues** - Since **AES-GCM** is used, padding vulnerabilities (like those in CBC) are completely avoided.  
 ✅ **Intuitive UI** - Simple and user-friendly interface for file selection and password protection.  
 ✅ **Multi-File Support** - Encrypt and decrypt any type of file.  
-✅ **Offline & Private** - No internet connection required, ensuring complete privacy. 
+✅ **Offline & Private** - No internet connection required, ensuring complete privacy.  
 
 ---
 
