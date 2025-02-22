@@ -74,7 +74,6 @@ python CrabCrypt.py
 
 🚧 **No Password Recovery** - If you forget the password, decryption is impossible.  
 🚧 **File Size** - Large files may take longer to process.  
-🚧 **Only AES Encryption** - Currently supports only AES-256 with AES-GCM is usedCBC mode.  
 
 ---
 
