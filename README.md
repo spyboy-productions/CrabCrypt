@@ -50,7 +50,22 @@ CrabCrypt is a secure file encryption tool with GUI, designed for effortlessly e
 
 <h4 align="center"> 
 
-### 📌 Installation  
+---
+
+### 🚀 **Download & Installation**  
+
+#### 🖥️ **For Windows Users**  
+📥 **[Download CrabCrypt.exe](https://github.com/spyboy-productions/CrabCrypt/releases/download/v1.0.2/CrabCrypt.exe)** and run it – No installation required!  
+
+🔹 **Steps to run:**  
+1. Click the download link above.  
+2. Double-click `CrabCrypt.exe`.  
+3. Start encrypting/decrypting!  
+
+---
+
+#### 🐧 **For Linux & macOS Users**  
+---
 
 #### 1️⃣ Clone the Repository  
 ```bash
