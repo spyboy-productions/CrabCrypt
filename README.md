@@ -60,11 +60,13 @@ CrabCrypt is a secure file encryption tool with GUI, designed for effortlessly e
 🔹 **Steps to run:**  
 1. Click the download link above.  
 2. Double-click `CrabCrypt.exe`.  
-3. Start encrypting/decrypting!  
+3. **Windows SmartScreen Warning?** ⚠️
+   - If you see a SmartScreen warning, click **"More info"** and then **"Run anyway"**.  
+   - This happens because the app is new and unsigned, but it's safe!   
 
 ---
 
-#### 🐧 **For Linux & macOS Users**  
+#### 🐧 **For manual Installation or for Linux & macOS Users**  
 ---
 
 #### 1️⃣ Clone the Repository  
