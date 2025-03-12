@@ -40,6 +40,16 @@ CrabCrypt is a secure file encryption tool with GUI, designed for effortlessly e
 
 ---
 
+<h4 align="center">
+  OS compatibility :
+  <br><br>
+  <img src="https://img.shields.io/badge/Windows-05122A?style=for-the-badge&logo=windows">
+  <img src="https://img.shields.io/badge/Linux-05122A?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/badge/macOS-05122A?style=for-the-badge&logo=macos">
+</h4>
+
+<h4 align="center"> 
+
 ### 📌 Installation  
 
 #### 1️⃣ Clone the Repository  
