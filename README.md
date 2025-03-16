@@ -62,7 +62,15 @@ CrabCrypt is a secure file encryption tool with GUI, designed for effortlessly e
 2. Double-click `CrabCrypt.exe`.  
 3. **Windows SmartScreen Warning?** ⚠️
    - If you see a SmartScreen warning, click **"More info"** and then **"Run anyway"**.  
-   - This happens because the app is new and unsigned, but it's safe!   
+   - This happens because the app is new and unsigned, but it's safe!
+
+<details>
+  <summary>Click Here To See How To Compile Your Own .exe file.</summary>
+  <pre>
+pip install pyinstaller
+pyinstaller --onefile --noconsole --icon=crabcrypt.ico CrabCrypt.py
+  </pre>
+</details>
 
 ---
 
