@@ -112,6 +112,12 @@ python CrabCrypt.py
 🚧 **File Size** - Large files may take longer to process.  
 
 ---
+### TO Do
+1. Self-Destruct Mode
+Have a mode where if a trigger is met (e.g., a password attempt fails multiple times), all selected files get encrypted and shredded instantly.
+2.  Post-quantum encryption algorithm
+Example: Kyber + AES-GCM (Kyber is a quantum-resistant algorithm from NIST’s PQC finalists)
+use post-quantum KEMs (Kyber, FrodoKEM) to encrypt the AES key
 
 ### 📢 Contribute  
 Want to improve CrabCrypt? Open a PR or submit an issue!   
